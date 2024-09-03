@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Kristin Watson",
+        "role": "Certified personal yoga trainer",
+        "rating": 4.96,
+        "description": "A Yoga Expert dedicated to crafting personalized workout plans that align with your goals.",
+        "buttonText": "Book Workout"
+    },    
+    {
+        "name": "Wade Warren",
+        "role": "Climbing Coach",
+        "rating": 4.8,
+        "description": "Scale new challenges with our Climbing Coach. Get instruction to improve climbing skills, and build confidence on the wall.",
+        "buttonText": "Book Workout"
+    },
+    {
+        "name": "Cameron Williamson",
+        "role": "Strength Coach",
+        "rating": 5.0,
+        "description": "Achieve peak performance with our Strength Coach, a specialist in building muscle and increasing power.",
+        "buttonText": "Book Workout"
+    },
+    {
+        "name": "Jenny Wilson",
+        "role": "Certified personal yoga trainer",
+        "rating": 5.0,
+        "description": "A Yoga Expert dedicated to crafting personalized workout plans that align with your goals.",
+        "buttonText": "Book Workout"
+    },
+    {
+        "name": "Robert Fox",
+        "role": "Cardio Trainer",
+        "rating": 4.7,
+        "description": "An experienced Cardio Trainer helping you boost your endurance and improve heart health through personalized cardio workouts.",
+        "buttonText": "Book Workout"
+    },
+    {
+        "name": "Leslie Alexander",
+        "role": "Nutrition Coach",
+        "rating": 4.9,
+        "description": "Expert Nutrition Coach offering personalized diet plans and nutritional advice to complement your fitness goals.",
+        "buttonText": "Book Session"
+    },
+    {
+        "name": "Jane Cooper",
+        "role": "Pilates Instructor",
+        "rating": 4.85,
+        "description": "Certified Pilates Instructor focusing on core strength, flexibility, and improving overall body posture through guided Pilates sessions.",
+        "buttonText": "Book Class"
+    },
+    {
+        "name": "Ronald Richards",
+        "role": "CrossFit Trainer",
+        "rating": 4.95,
+        "description": "Elite CrossFit Trainer with a focus on high-intensity interval training to improve strength and endurance.",
+        "buttonText": "Join Class"
+    }
+]
